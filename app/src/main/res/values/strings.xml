@@ -1,0 +1,151 @@
+<resources>
+    <string name="app_name">MUFEE</string>
+    <string name="title_activity_feed">feed</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="dates">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+    <string-array name="months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+    <string-array name="branch">
+        <item>Comp. Science</item>
+        <item>Info. Science</item>
+        <item>Electronics</item>
+        <item>Mechanical</item>
+    </string-array>
+
+    <string-array name="year">
+        <item>Ist year</item>
+        <item>IInd year</item>
+        <item>IIIrd year</item>
+        <item>IVth year</item>
+    </string-array>
+
+    <string-array name="aoi">
+        <item>AI/ML</item>
+        <item>IOT</item>
+        <item>AR/VR</item>
+        <item>MUN</item>
+        <item>Universe</item>
+        <item>Tesla/SpaceX</item>
+        <item>Web Development</item>
+        <item>BlockChain</item>
+        <item>Automobile</item>
+        <item>Design and Architecture</item>
+        <item>Pyschology</item>
+        <item>NanoTech</item>
+        <item>Quantum Physics</item>
+        <item>Robotics</item>
+        <item>Networking</item>
+        <item>Automation</item>
+        <item>Entrepreneurship</item>
+        <item>Communication and media</item>
+        <item>Sales and Marketing</item>
+        <item>Financial Services</item>
+    </string-array>
+
+    <string name="aiml">
+        <a href= "https://artificialintelligence-news.com/">1. Artificial Intelligence/Machine Learning</a>
+    </string>
+    <string name="iot">
+        <a href="https://www.iottechnews.com/">2. Internet of Things</a>
+    </string>
+    <string name="ARVR">
+        <a href="http://www.arvrmagazine.com/">3. Augmented Reality/Virtual Reality</a>
+    </string>
+    <string name="mun">
+        <a href="https://timesofindia.indiatimes.com/topic/model-United-Nations">4. Model United Nation</a>
+    </string>
+    <string name="uni">
+        <a href="https://spaceplace.nasa.gov/menu/space/">5. Universe</a>
+    </string>
+    <string name="tesla">
+        <a href ="https://yourstory.com/2019/08/tesla-spacex-elon-musk-personal-life">6. Tesla/Space X</a>
+    </string>
+    <string name="web">
+        <a href= "https://thenextweb.com/dd/">7. Web Development</a>
+    </string>
+    <string name="block">
+        <a href="https://www.coindesk.com/">8. Blockchain</a>
+    </string>
+    <string name="auto">
+        <a href="https://auto.ndtv.com/news">9. Automobile</a>
+    </string>
+    <string name="design">
+        <a href="http://www.designandarchitecture.com/">10. Design and Architecture</a>
+    </string>
+    <string name="psycho">
+        <a href="https://www.sciencedaily.com/news/mind_brain/psychology/">11. Psychology</a>
+    </string>
+    <string name="nano">
+        <a href="https://www.sciencedaily.com/news/matter_energy/nanotechnology/">12. Nanotechnology</a>
+    </string>
+    <string name="quantum">
+        <a href= "https://phys.org/physics-news/quantum-physics/">13. Quantum Physics</a>
+    </string>
+    <string name="robo">
+        <a href="https://www.sciencedaily.com/news/computers_math/robotics/">14. Robotics</a>
+    </string>
+    <string name="net">
+        <a href="https://www.networkworld.com/news/">15. Networking</a>
+    </string>
+    <string name="auto1">
+        <a href="https://www.isa.org/about-isa/what-is-automation/">16. Automation</a>
+    </string>
+    <string name="entre">
+        <a href="https://economictimes.indiatimes.com/topic/Entrepreneurship">17. Entrepreneurship</a>
+    </string>
+    <string name="com">
+        <a href= "https://www.omicsonline.org/open-access/the-changing-world-of-media-and-communication-2165-7912.1000116.php?aid=6473"> 18. Communication and Media</a>
+    </string>
+    <string name="sale">
+        <a href="https://www.entrepreneur.com/topic/marketing">19. Sales and Marketing</a>
+    </string>
+    <string name="fin">
+        <a href="https://www.cnbc.com/finance/">20. Financial Services</a>
+    </string>
+
+</resources>

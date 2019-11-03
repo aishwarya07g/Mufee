@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".currenttrend"
+    android:background="@drawable/borabora">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="375dp"
+            android:layout_height="53dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="60dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            android:fontFamily="@font/lakki_reddyn"
+            android:text="MUFEE"
+            android:textAlignment="center"
+            android:textSize="45sp" />
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="386dp"
+            android:layout_height="44dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            android:fontFamily="@font/cormorant_upright_light"
+            android:text="Current Trends"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/aiml"
+            android:layout_width="wrap_content"
+            android:layout_height="52dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            android:clickable="true"
+            android:fontFamily="@font/cormorant_upright_light"
+            android:text="@string/aiml"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/iot"
+            android:layout_width="388dp"
+            android:layout_height="52dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            android:clickable="true"
+            android:fontFamily="@font/cormorant_upright_light"
+            android:text="@string/iot"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/arvr"
+            android:layout_width="388dp"
+            android:layout_height="52dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            android:clickable="true"
+            android:fontFamily="@font/cormorant_upright_light"
+            android:text="@string/ARVR"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/mun"
+            android:layout_width="382dp"
+            android:layout_height="52dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            android:clickable="true"
+            android:fontFamily="@font/cormorant_upright_light"
+            android:text="@string/mun"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/uni"
+            android:layout_width="344dp"
+            android:layout_height="52dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            android:clickable="true"
+            android:fontFamily="@font/cormorant_upright_light"
+            android:text="@string/uni"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:id="@+id/tesla"
+            android:layout_width="344dp"
+            android:layout_height="52dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            android:clickable="true"
+            android:fontFamily="@font/cormorant_upright_light"
+            android:text="@string/tesla"
+            android:textSize="22sp"
+            android:textStyle="bold"
+             />
+
+        <TextView
+            android:id="@+id/web"
+            android:layout_width="344dp"
+            android:layout_height="52dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            android:clickable="true"
+            android:fontFamily="@font/cormorant_upright_light"
+            android:text="@string/web"
+            android:textSize="22sp"
+            android:textStyle="bold"
+             />
+
+        <TextView
+            android:id="@+id/block"
+            android:layout_width="344dp"
+            android:layout_height="52dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            android:clickable="true"
+            android:fontFamily="@font/cormorant_upright_light"
+            android:text="@string/block"
+            android:textSize="22sp"
+            android:textStyle="bold"
+             />
+
+        <TextView
+            android:id="@+id/aut"
+            android:layout_width="344dp"
+            android:layout_height="52dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            android:clickable="true"
+            android:fontFamily="@font/cormorant_upright_light"
+            android:text="@string/auto"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:id="@+id/design"
+            android:layout_width="344dp"
+            android:layout_height="52dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            android:clickable="true"
+            android:fontFamily="@font/cormorant_upright_light"
+            android:text="@string/design"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:id="@+id/psycho"
+            android:layout_width="344dp"
+            android:layout_height="52dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            android:clickable="true"
+            android:fontFamily="@font/cormorant_upright_light"
+            android:text="@string/psycho"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:id="@+id/nano"
+            android:layout_width="344dp"
+            android:layout_height="52dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            android:clickable="true"
+            android:fontFamily="@font/cormorant_upright_light"
+            android:text="@string/nano"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:id="@+id/quan"
+            android:layout_width="344dp"
+            android:layout_height="52dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            android:clickable="true"
+            android:fontFamily="@font/cormorant_upright_light"
+            android:text="@string/quantum"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:id="@+id/robo"
+            android:layout_width="344dp"
+            android:layout_height="52dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            android:clickable="true"
+            android:fontFamily="@font/cormorant_upright_light"
+            android:text="@string/robo"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:id="@+id/net"
+            android:layout_width="344dp"
+            android:layout_height="52dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            android:clickable="true"
+            android:fontFamily="@font/cormorant_upright_light"
+            android:text="@string/net"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:id="@+id/auto1"
+            android:layout_width="344dp"
+            android:layout_height="52dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            android:clickable="true"
+            android:fontFamily="@font/cormorant_upright_light"
+            android:text="@string/auto1"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:id="@+id/en"
+            android:layout_width="344dp"
+            android:layout_height="52dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            android:clickable="true"
+            android:fontFamily="@font/cormorant_upright_light"
+            android:text="@string/entre"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:id="@+id/com"
+            android:layout_width="344dp"
+            android:layout_height="52dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            android:clickable="true"
+            android:fontFamily="@font/cormorant_upright_light"
+            android:text="@string/com"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:id="@+id/sale"
+            android:layout_width="344dp"
+            android:layout_height="52dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            android:clickable="true"
+            android:fontFamily="@font/cormorant_upright_light"
+            android:text="@string/sale"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:id="@+id/fin"
+            android:layout_width="344dp"
+            android:layout_height="52dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            android:clickable="true"
+            android:fontFamily="@font/cormorant_upright_light"
+            android:text="@string/fin"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            />
+
+    </LinearLayout>
+</ScrollView>
