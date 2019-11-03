@@ -23,4 +23,14 @@ public class feed extends AppCompatActivity {
         Intent in = new Intent(this, currenttrend.class);
         startActivity(in);
     }
+
+    public void matchh(View view) {
+        Intent in = new Intent(this, matchpage.class);
+        startActivity(in);
+    }
+
+    public void pro(View view) {
+        Intent in= new Intent(this, profile.class);
+        startActivity(in);
+    }
 }

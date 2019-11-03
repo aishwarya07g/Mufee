@@ -88,7 +88,7 @@
     </string-array>
 
     <string name="aiml">
-        <a href= "https://artificialintelligence-news.com/">1. Artificial Intelligence/Machine Learning</a>
+        <a href="https://artificialintelligence-news.com/">1. Artificial Intelligence/Machine Learning</a>
     </string>
     <string name="iot">
         <a href="https://www.iottechnews.com/">2. Internet of Things</a>
@@ -103,10 +103,10 @@
         <a href="https://spaceplace.nasa.gov/menu/space/">5. Universe</a>
     </string>
     <string name="tesla">
-        <a href ="https://yourstory.com/2019/08/tesla-spacex-elon-musk-personal-life">6. Tesla/Space X</a>
+        <a href="https://yourstory.com/2019/08/tesla-spacex-elon-musk-personal-life">6. Tesla/Space X</a>
     </string>
     <string name="web">
-        <a href= "https://thenextweb.com/dd/">7. Web Development</a>
+        <a href="https://thenextweb.com/dd/">7. Web Development</a>
     </string>
     <string name="block">
         <a href="https://www.coindesk.com/">8. Blockchain</a>
@@ -124,7 +124,7 @@
         <a href="https://www.sciencedaily.com/news/matter_energy/nanotechnology/">12. Nanotechnology</a>
     </string>
     <string name="quantum">
-        <a href= "https://phys.org/physics-news/quantum-physics/">13. Quantum Physics</a>
+        <a href="https://phys.org/physics-news/quantum-physics/">13. Quantum Physics</a>
     </string>
     <string name="robo">
         <a href="https://www.sciencedaily.com/news/computers_math/robotics/">14. Robotics</a>
@@ -139,7 +139,7 @@
         <a href="https://economictimes.indiatimes.com/topic/Entrepreneurship">17. Entrepreneurship</a>
     </string>
     <string name="com">
-        <a href= "https://www.omicsonline.org/open-access/the-changing-world-of-media-and-communication-2165-7912.1000116.php?aid=6473"> 18. Communication and Media</a>
+        <a href="https://www.omicsonline.org/open-access/the-changing-world-of-media-and-communication-2165-7912.1000116.php?aid=6473"> 18. Communication and Media</a>
     </string>
     <string name="sale">
         <a href="https://www.entrepreneur.com/topic/marketing">19. Sales and Marketing</a>
